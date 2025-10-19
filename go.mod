@@ -9,3 +9,9 @@ require (
 	github.com/alexedwards/scs/v2 v2.8.0
 	github.com/gomodule/redigo v1.9.2
 )
+
+require (
+	github.com/go-sql-driver/mysql v1.9.2 // indirect
+	github.com/lib/pq v1.10.9 // indirect
+	github.com/stretchr/testify v1.10.0 // indirect
+)
